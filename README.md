@@ -5,8 +5,8 @@ Lyrics-first Korean romanization for Node.js and browsers.
 `hangul-romanizer` converts modern Hangul into readable Latin-script lyric lines. It supports Revised Romanization (RR), McCune–Reischauer (MR), pronunciation rules across adjacent syllables, isolated compatibility jamo, multiline lyrics, and per-syllable karaoke alignment.
 
 [![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088ff?logo=githubactions&logoColor=white)](.github/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/hangul-romanizer)](https://www.npmjs.com/package/hangul-romanizer)
-[![license](https://img.shields.io/npm/l/hangul-romanizer)](./LICENSE)
+![version](https://img.shields.io/badge/version-0.1.0-5c6ac4)
+[![license](https://img.shields.io/badge/license-MIT-2ea44f)](./LICENSE)
 
 ## Why lyrics?
 
